@@ -1,2 +1,2 @@
 # CockroachDB
-A Vale linter style that replicates the CockroachDB style guide
+A Vale linter style that replicates the [cockroachlabs.com/docs](https://cockroachlabs.com/docs).
