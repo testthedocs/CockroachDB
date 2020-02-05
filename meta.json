@@ -1,10 +1,4 @@
 {
-    // An Atom-formatted release feed:
-    //
-    // e.g., https://github.com/<USER>/<REPO>/releases.atom
     "feed": "https://github.com/testthedocs/CockroachDB/releases.atom",
-    // The minimum required Vale version:
-    //
-    // e.g., v1.0.0
     "vale_version": "v1.7.1s"
 }
