@@ -1,4 +1,5 @@
 # CockroachDB
+
 A Vale linter style that replicates the [cockroachlabs.com/docs](https://cockroachlabs.com/docs).
 
 [![Build Status](https://travis-ci.org/testthedocs/CockroachDB.svg?branch=master)](https://travis-ci.org/testthedocs/CockroachDB) ![Vale version](https://img.shields.io/badge/vale-%3E%3D%20v1.7.0-blue.svg) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
